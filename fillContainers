@@ -1,0 +1,47 @@
+Step 1:
+Empty A container
+
+A=0
+B=3
+
+Step 2:
+Empty container B into A
+A=3
+B=0
+
+Step 3:
+Fill container B with 3L
+A=3
+B=3
+
+Step 4:
+Empty 2L from B into A since A can have 5L then B will have 1L
+A=5
+B=1
+
+Step 5:
+Empty A
+A=0
+B=1
+
+Step 6:
+Empty B into A
+A=1
+B=0
+
+Step 7:
+Fill B with 3L
+
+A=1
+B=3
+
+Step 8:
+Empty B into A
+
+A=4
+B=0
+
+
+
+
+Linux command: mv palindrome.ts palindrome.js
